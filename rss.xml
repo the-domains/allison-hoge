@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Allison Hoge]]></title>
+        <description><![CDATA[Allison Hoge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 07 Jun 2016 11:10:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Futuristic Illustrations by Artist Simon Stålenhag]]></title>
+            <description><![CDATA[<article><h1>Futuristic Illustrations by Artist Simon Stålenhag</h1><p>We recently featured Bratislava-based web designer Slavomier's social media warning label mock-ups (click here for previous post). Well New York-based artist Chino Kim takes things a step further with Screeners - basically a pair of glasses that become opaque (effectively blinding the wearer) when in view of a computer, smartphone or television screen.</p><img src="http://www.booooooom.com/wp-content/uploads/2016/06/Stalenhag1.jpg"></article>]]></description>
+            <link>http://www.booooooom.com/2016/06/07/futuristic-illustrations-by-artist-simon-stalenhag/</link>
+            <guid isPermaLink="false">47158e2c-f0ee-42b7-9e24-7317c3a36821</guid>
+            <pubDate>Tue, 07 Jun 2016 11:10:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
